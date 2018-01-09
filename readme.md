@@ -1,10 +1,10 @@
-#raise-d³#
+# raise-d³ #
 
-##Description##
+## Description ##
 
 FDM printer for remote operation with octoprint for flexible small scale production. Designed from scratch and inspired by the I3 by Josef Prusa, MP3DP by Ryan Zellar and the Itopie by Skarab
 
-###Key features###
+### Key features ###
 
 Print volume: 250 x 270 x 250
 
